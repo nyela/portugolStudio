@@ -15,6 +15,10 @@ programa
 		{
 			escreva ("Você já pode votar!")
 		}
+		senao 
+		{
+			escreva ("Você não pode votar!")
+		}
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -22,7 +26,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 301; 
+ * @POSICAO-CURSOR = 354; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
